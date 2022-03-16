@@ -11,5 +11,5 @@
 ---
 
 <div align="center">
-<a href="./README.md#how-to-contribute">Getting Started</a> • <a href="./past_payouts.csv">Past Payouts</a>
+<a href="/README.md#how-to-contribute">Getting Started</a> • <a href="./past_payouts.csv">Past Payouts</a>
 </div>
