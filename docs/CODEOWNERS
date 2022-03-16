@@ -1,0 +1,10 @@
+# Code Owner = Reviewer
+
+# Global Reviewers
+* @MashiroShiinaX @SolarSun13
+
+# KrunkScript Reviewers (TBA)
+/docs/files/*.md
+
+# Trigger Reviewers
+/docs/files/triggers.md @SolarSun13
